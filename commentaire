@@ -1,0 +1,5 @@
+v-on raccourcie @
+v-bind raccourcie :
+v-for =>pour recuperer des tableaux dans data (v-for(detail in details))
+{{ detail  }}==> pour afficher l'element directe vient du data
+ 
